@@ -1,0 +1,41 @@
+body{
+	margin: 25px
+
+}
+
+#title{
+
+	padding: 70px 0;
+	display: block;
+    margin: auto;
+    width: 40%;
+    padding: 70px 0;
+
+}
+
+h1{
+
+	text-align: center;
+	font-family: Arial; 
+	font-style: bold;
+	font-weight: 700px;
+	color: #ffffff;
+	font-size: 25vh;
+	margin-bottom: 0;
+	text-align: center;
+	padding-bottom: none;
+
+}
+
+p{
+	text-align: center;
+	margin-top: 0;
+	padding-top: none;
+	font-family: Arial;
+	font-size:2vh;
+	color: #ffffff
+
+}
+#bgcolor{
+background-color: #F21493;
+}
